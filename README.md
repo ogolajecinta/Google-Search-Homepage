@@ -7,3 +7,5 @@ My attempt at recreating Google's search homepage.
 - HTML
 - CSS
 
+# Live Demo
+https://htmlpreview.github.io/?https://github.com/MsMutinda/Google-Search-Homepage/blob/master/google.html
